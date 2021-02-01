@@ -1,5 +1,4 @@
 # Painless step size adaptation for SGD
-I. Kulikovskikh, T. Legović
 
 We address two crucial aspects of performance in neural networks: convergence and generalization: faster training does not guarantee better generalization. To balance them out, recent studies suggest using a moderately large step size for optimizers, but the added value on the performance remains unclear.
 
